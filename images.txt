@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent
 whyour/qinglong
+whyour/qinglong:v2.15.20
