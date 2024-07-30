@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/qbittorrent
-whyour/qinglong:v2.15.20
+whyour/qinglong:2.15.20
