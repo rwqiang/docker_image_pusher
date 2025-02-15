@@ -7,3 +7,4 @@ xhofe/alist:latest
 linuxserver/qbittorrent
 whyour/qinglong:2.15.20
 jeessy/ddns-go
+nyanmisaka/jellyfin
